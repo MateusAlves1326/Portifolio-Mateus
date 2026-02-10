@@ -39,7 +39,7 @@ export function Hero() {
       <div className="flex flex-col gap-2 mt-2 text-sm text-muted-foreground">
         <div className="flex items-center gap-2">
           <MapPin className="h-4 w-4 text-primary" />
-          <span>Maraba - PA</span>
+          <span>Marabá - PA</span>
         </div>
         <div className="flex items-center gap-2">
           <Mail className="h-4 w-4 text-primary" />
@@ -49,7 +49,7 @@ export function Hero() {
 
       <div className="flex items-center gap-4 mt-2">
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/mateus-alves-pereira-52758a2aa/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
@@ -58,7 +58,7 @@ export function Hero() {
           <Linkedin className="h-5 w-5" />
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/MateusAlves1326"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"

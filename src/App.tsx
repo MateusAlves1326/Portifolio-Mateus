@@ -28,12 +28,7 @@ export function App() {
             </div>
 
             <footer className="mt-24 pb-12 text-sm text-muted-foreground">
-              <p>
-                Desenvolvido com{" "}
-                <span className="text-primary">React</span> +{" "}
-                <span className="text-primary">Vite</span> e{" "}
-                <span className="text-primary">Tailwind CSS</span>.
-              </p>
+              © {new Date().getFullYear()} Your Name. All rights reserved.
             </footer>
           </main>
         </div>

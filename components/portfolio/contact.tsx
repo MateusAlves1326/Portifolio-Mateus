@@ -24,7 +24,7 @@ export function Contact() {
 
           <div className="flex items-center gap-3 rounded-md border border-border p-4 text-sm text-muted-foreground">
             <MapPin className="h-4 w-4 text-primary shrink-0" />
-            Maraba - PA
+            Marabá - PA
           </div>
 
           <div className="flex items-center gap-3 rounded-md border border-border p-4 text-sm text-muted-foreground">
@@ -35,7 +35,7 @@ export function Contact() {
 
         <div className="flex items-center gap-4 mt-6 pt-6 border-t border-border">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/mateus-alves-pereira-52758a2aa/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-md bg-primary/10 px-4 py-2.5 text-sm font-medium text-primary transition-colors hover:bg-primary/20"
@@ -44,7 +44,7 @@ export function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/MateusAlves1326"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-md bg-primary/10 px-4 py-2.5 text-sm font-medium text-primary transition-colors hover:bg-primary/20"
